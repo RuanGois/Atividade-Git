@@ -1,1 +1,0 @@
-from jogovelha import JogoVelha
