@@ -1,0 +1,2 @@
+Todas as classes tem uma relação de composição entre si:
+- JogadorHumano(Jogador) é classe composta pela classe componente Tabuleiro()
